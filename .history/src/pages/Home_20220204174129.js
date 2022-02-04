@@ -236,9 +236,9 @@ function Home() {
             <a href="#"><img src="assets/images/icon/ICON_OS.svg" alt="_icon" /></a>
             <a href="#"><img src="assets/images/icon/ICON_TWITTER.svg" alt="twitter_icon" /></a>
             <a href="#"><img src="assets/images/icon/ICON_DISCORD.svg" alt="discord_icon" /></a>
-        </div>
-    </div>
-    </div>
+         </div>
+      </div>
+   </div>
 </section>   	</>
   );
 }

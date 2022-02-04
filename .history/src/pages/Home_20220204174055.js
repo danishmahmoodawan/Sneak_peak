@@ -222,24 +222,28 @@ function Home() {
    </div>
 </section>
 <section class="footer_sec" >
-   <div class="container text-center">
-      <h1 class="rarity mt-4 mb-4">TITLE</h1>
-      <div class="row">
-         <div class="col-md-12">
-            <button type="button" class="btn bg-btnn btn_font mb-2 d-block btn_contract">CONTRACT ADDRESS</button>
-         </div>
-      </div>
-      <div class="row   text-center">
-         <div class="col-md-12 image_oc"> 
-            <a href="#"><img src="assets/images/icon/ICON_INSTA.svg" alt="insta_icon" /></a>
-            <a href="#"><img src="assets/images/icon/ICON_MEDIUM.svg" alt="medium_icon" /></a>
-            <a href="#"><img src="assets/images/icon/ICON_OS.svg" alt="_icon" /></a>
-            <a href="#"><img src="assets/images/icon/ICON_TWITTER.svg" alt="twitter_icon" /></a>
-            <a href="#"><img src="assets/images/icon/ICON_DISCORD.svg" alt="discord_icon" /></a>
-        </div>
-    </div>
-    </div>
-</section>   	</>
+		<div class="container text-center">
+																		<h1 class="rarity mt-4 mb-4">TITLE</h1>
+																	<div class="row">
+																		<div class="col-md-12">
+																				<button type="button" class="btn bg-btnn btn_font mb-2 d-block btn_contract">CONTRACT ADDRESS</button>
+																		</div>
+
+																	</div>
+																	<div class="row   text-center">
+																			<div class="col-md-12 image_oc"> 
+																				<a href="#"><img src="assets/images/icon/ICON_INSTA.svg" alt="insta_icon" /></a>
+																				<a href="#"><img src="assets/images/icon/ICON_MEDIUM.svg" alt="medium_icon" /></a>
+																				<a href="#"><img src="assets/images/icon/ICON_OS.svg" alt="_icon" /></a>
+																				<a href="#"><img src="assets/images/icon/ICON_TWITTER.svg" alt="twitter_icon" /></a>
+																				<a href="#"><img src="assets/images/icon/ICON_DISCORD.svg" alt="discord_icon" /></a>
+																			</div>
+																	
+																	</div>
+																	</div>
+
+															</section>
+   	</>
   );
 }
 
